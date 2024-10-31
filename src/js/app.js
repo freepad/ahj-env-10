@@ -5,7 +5,6 @@ const unusedVariable = "variable";
 
 // for demonstration purpose only
 export default function demo(value) {
-  debugger;
   return `Demo: ${value}`;
 }
 
